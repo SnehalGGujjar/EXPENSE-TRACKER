@@ -1,4 +1,3 @@
-Okay, I've refined the README file to be more concise and highlight only the essential information, keeping the key sections and a clean structure. This version is perfect for a quick overview while still providing necessary details for setup.
 
 -----
 
@@ -59,14 +58,6 @@ npm run dev # or yarn dev
 ```
 
 Open your browser to `http://localhost:5173` (or the indicated port) to view the app.
-
------
-
-## 📸 Demo
-
-*(Add your animated GIF here. Make sure the GIF is in your `assets` folder, e.g., `assets/expense-tracker-demo.gif`)*
-
-[](https://www.google.com/search?q=link_to_your_youtube_or_loom_video_if_you_have_one)
 
 -----
 
